@@ -1,7 +1,7 @@
 # parametrize
 parametrize to perform multiple calls to the same test function. Also it used to pass the input to the test and make the test drive by the input data. I.e. test will be executed in different instance for each input data.
 
-### Example 1
+## Example 1
 
 ```
 import pytest
@@ -13,7 +13,7 @@ def test(i):
 ```
 In the above example, test will be running for 5 times and thrid test which executes with data 45 will be failed but still the test continues for other input data
 
-### Example 2
+## Example 2
 
 Example of multiple set of data passed to the test
 
@@ -26,13 +26,13 @@ def test(uname,pword):
 ```
 In the above example, test will be running for 2 times and for every iteration two values will be passed
 
-### Example 3
+## Example 3
 
 Example of parametrize with excel data driven
 
 SampleFile.xlsx
 
-![SampleFile](\resources\excel_data.JPG)
+![SampleFile](/resources/excel_data.JPG)
 
 read_data.py
 ```

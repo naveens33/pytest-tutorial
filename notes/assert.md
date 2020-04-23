@@ -1,3 +1,4 @@
+# Assert
 You can use the standard python assert for validation.
 
 ```
@@ -5,7 +6,7 @@ def test_01():
     assert 2 == 5
 ```
 
-### Assert a Expected Exceptions
+## Assert a Expected Exceptions
 You can assert exception using below snippet,
 
 ```

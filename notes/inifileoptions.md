@@ -1,4 +1,4 @@
-### Configuration file options
+# Configuration file options
 
 pytest look for pytest.ini, tox.ini and setup.cfg configuration file to execute the test. You can use below options to define your test in these files.
 

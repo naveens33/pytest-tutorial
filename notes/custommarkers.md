@@ -9,11 +9,11 @@ And you can execute the marked test function with following option,
 pytest -m <markername>
 ```
 
-### PytestUnknownMarkWarning
+## PytestUnknownMarkWarning
 
 Custom Markers should be registered before executing it. PytestUnknownMarkWarning will be emitted on use of unknown markers.
 
-### Registering marks
+## Registering marks
 
 You can register custom marks in your pytest.ini file like this:
 

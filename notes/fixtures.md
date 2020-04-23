@@ -1,3 +1,4 @@
+# Fixtures
 Fixtures are the functions to run before test function. Also, it helps to feed data to the test function and act as dependencies.
 
 ## Basic Fixture function

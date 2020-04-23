@@ -1,4 +1,4 @@
-# Command line Options
+# Command line options
 
 You can run your pytest test using below command,
 
