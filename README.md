@@ -9,18 +9,18 @@ In the following sections, we will be seeing all the levels of pytest usage and 
 
 ### Topics
 
-- [Create First Test](/notes/basictest.md)
-- [Command line Options](/notes/commandlineoptions.md)
-- [Configuration file options](/notes/inifileoptions.md)
-- [Assert](/notes/assert.md)
-- [Fixtures](/notes/fixtures.md)
-- [Classic xunit-style fixtures](/notes/xunitstyle.md)
-- [conftest.py](/notes/conftest.md)
+- [Create First Test](/docs/basictest.md)
+- [Command line Options](/docs/commandlineoptions.md)
+- [Configuration file options](/docs/inifileoptions.md)
+- [Assert](/docs/assert.md)
+- [Fixtures](/docs/fixtures.md)
+- [Classic xunit-style fixtures](/docs/xunitstyle.md)
+- [conftest.py](/docs/conftest.md)
 - Built-in Markers
-   - [skip, skipif and xfail](/notes/skipskipifxfail.md)
-   - [parametrize](/notes/parametrize.md)
-- [Custom Markers](/notes/custommarkers.md)
-- Reporting (Refer [Command line Options](/notes/commandlineoptions.md) - Reporting option section)
-  - [Html](/notes/commandlineoptions.md)
-  - [Xml](/notes/commandlineoptions.md)
+   - [skip, skipif and xfail](/docs/skipskipifxfail.md)
+   - [parametrize](/docs/parametrize.md)
+- [Custom Markers](/docs/custommarkers.md)
+- Reporting (Refer [Command line Options](/docs/commandlineoptions.md) - Reporting option section)
+  - [Html](/docs/commandlineoptions.md)
+  - [Xml](/docs/commandlineoptions.md)
 
