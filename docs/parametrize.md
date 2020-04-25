@@ -32,7 +32,7 @@ Example of parametrize with excel data driven
 
 SampleFile.xlsx
 
-![SampleFile](https://github.com/naveens33/pytest-tutorial/blob/master/resources/excel_data.JPG)
+![SampleFile](https://github.com/naveens33/pytest-tutorial/raw/master/docs/resources/excel_data.JPG)
 
 read_data.py
 ```
