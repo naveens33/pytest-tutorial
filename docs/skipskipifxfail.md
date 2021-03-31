@@ -33,6 +33,14 @@ Output
 Skipped: This test not will be executed in windows os
 ```
 
+## Skip test using pytest.skip function
+Skip an executing test with the given message.
+```
+    def test_02():
+        pytest.skip("Not Yet Developed")
+```
+
+
 ## xfail
 
 xfail marker is used to indicate that the particular test is expect to be fail.
@@ -45,4 +53,3 @@ def test_01():
     print('test01')
 ```
 This test will run but no traceback will be reported when it fails.
-
