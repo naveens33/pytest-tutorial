@@ -38,7 +38,7 @@ pytest [options] [file_or_dir] [file_or_dir]
 ```
 Also pytest provides plenty of command line options to select and run the test.
 
-Refer [Command line Options](/docs/commandlineoptions.md)
+Refer [Command line Options](commandlineoptions.md)
 
 ### 3. Using configuration file
 
